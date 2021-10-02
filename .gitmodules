@@ -7,3 +7,6 @@
 [submodule "keyswitch-kicad-library"]
 	path = keyswitch-kicad-library
 	url = https://github.com/perigoso/keyswitch-kicad-library
+[submodule "Unified-Daughterboard"]
+	path = Unified-Daughterboard
+	url = https://github.com/ai03-2725/Unified-Daughterboard
