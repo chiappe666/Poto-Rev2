@@ -13,3 +13,6 @@
 [submodule "acheron_Symbols"]
 	path = acheron_Symbols
 	url = https://github.com/AcheronProject/acheron_Symbols
+[submodule "libraries/acheron_Symbols"]
+	path = libraries/acheron_Symbols
+	url = https://github.com/AcheronProject/acheron_Symbols
