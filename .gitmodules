@@ -10,12 +10,4 @@
 [submodule "Unified-Daughterboard"]
 	path = Unified-Daughterboard
 	url = https://github.com/ai03-2725/Unified-Daughterboard
-[submodule "acheron_Symbols"]
-	path = acheron_Symbols
-	url = https://github.com/AcheronProject/acheron_Symbols
-[submodule "libraries/acheron_Symbols"]
-	path = libraries/acheron_Symbols
-	url = https://github.com/AcheronProject/acheron_Symbols
-[submodule "Poto-Rev2/libraries/acheron_Symbols"]
-	path = Poto-Rev2/libraries/acheron_Symbols
-	url = https://github.com/AcheronProject/acheron_Symbols
+	ignore = dirty
