@@ -355,7 +355,7 @@ U 1 1 5C91B042
 P 2325 1675
 F 0 "R1" V 2400 1675 30  0000 C CNN
 F 1 "5.1k" V 2325 1675 30  0000 C CNN
-F 2 "Resistors_SMD:R_0603" H 2325 1675 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 2325 1675 50  0001 C CNN
 F 3 "~" H 2325 1675 50  0001 C CNN
 F 4 "R0603" V 2325 1675 50  0001 C CNN "Package"
 	1    2325 1675
@@ -367,7 +367,7 @@ U 1 1 5C91B0D9
 P 2325 1875
 F 0 "R2" V 2400 1875 30  0000 C CNN
 F 1 "5.1k" V 2325 1875 30  0000 C CNN
-F 2 "Resistors_SMD:R_0603" H 2325 1875 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 2325 1875 50  0001 C CNN
 F 3 "~" H 2325 1875 50  0001 C CNN
 F 4 "R0603" V 2325 1875 50  0001 C CNN "Package"
 	1    2325 1875
@@ -414,6 +414,8 @@ $Comp
 L Connector_Generic:Conn_01x01 MH1
 U 1 1 5C91EC0E
 P 6950 1625
+AR Path="/5C91EC0E" Ref="MH1"  Part="1" 
+AR Path="/6159038F/5C91EC0E" Ref="MH1"  Part="1" 
 F 0 "MH1" H 7029 1667 50  0000 L CNN
 F 1 "Mount-M2" H 7029 1576 50  0000 L CNN
 F 2 "random-keyboard-parts:Generic-Mounthole" H 6950 1625 50  0001 C CNN
@@ -425,6 +427,8 @@ $Comp
 L Connector_Generic:Conn_01x01 MH2
 U 1 1 5C91EC94
 P 6950 1800
+AR Path="/5C91EC94" Ref="MH2"  Part="1" 
+AR Path="/6159038F/5C91EC94" Ref="MH2"  Part="1" 
 F 0 "MH2" H 7029 1842 50  0000 L CNN
 F 1 "Mount-M2" H 7029 1751 50  0000 L CNN
 F 2 "random-keyboard-parts:Generic-Mounthole" H 6950 1800 50  0001 C CNN
@@ -436,6 +440,8 @@ $Comp
 L Connector_Generic:Conn_01x01 MH3
 U 1 1 5C91ECC0
 P 6950 1975
+AR Path="/5C91ECC0" Ref="MH3"  Part="1" 
+AR Path="/6159038F/5C91ECC0" Ref="MH3"  Part="1" 
 F 0 "MH3" H 7029 2017 50  0000 L CNN
 F 1 "Mount-M2" H 7029 1926 50  0000 L CNN
 F 2 "random-keyboard-parts:Generic-Mounthole" H 6950 1975 50  0001 C CNN
@@ -447,6 +453,8 @@ $Comp
 L Connector_Generic:Conn_01x01 MH4
 U 1 1 5C91ECE4
 P 6950 2150
+AR Path="/5C91ECE4" Ref="MH4"  Part="1" 
+AR Path="/6159038F/5C91ECE4" Ref="MH4"  Part="1" 
 F 0 "MH4" H 7029 2192 50  0000 L CNN
 F 1 "Mount-M2" H 7029 2101 50  0000 L CNN
 F 2 "random-keyboard-parts:Generic-Mounthole" H 6950 2150 50  0001 C CNN
@@ -502,6 +510,8 @@ $Comp
 L acheronSymbols:TPD4E05U06DQAR-acheronSymbols U1
 U 1 1 5E787D68
 P 4375 1725
+AR Path="/5E787D68" Ref="U1"  Part="1" 
+AR Path="/6159038F/5E787D68" Ref="U1"  Part="1" 
 F 0 "U1" H 4375 2191 50  0000 C CNN
 F 1 "TPD4E05U06DQAR" H 4375 2100 50  0000 C CNN
 F 2 "acheron_Components:USON-10_2.5x1.0mm_P0.5mm" H 4375 2775 50  0001 C CNN
