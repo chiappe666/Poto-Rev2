@@ -23,4 +23,5 @@
   (lib (name acheron_MXA)(type KiCad)(uri ${KIPRJMOD}/libraries/footprints/acheron_MXA.pretty)(options "")(descr ""))
   (lib (name acheron_MXH)(type KiCad)(uri ${KIPRJMOD}/libraries/footprints/acheron_MXH.pretty)(options "")(descr ""))
   (lib (name Unified-Daughterboard-Logo)(type KiCad)(uri ${KIPRJMOD}/libraries/Unified-Daughterboard/KiCad/C3/Unified-Daughterboard-Logo.pretty)(options "")(descr ""))
+  (lib (name Logo)(type KiCad)(uri ${KIPRJMOD}/libraries/Logo.pretty)(options "")(descr ""))
 )

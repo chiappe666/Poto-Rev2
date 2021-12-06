@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 2 2
+Sheet 2 4
 Title ""
 Date ""
 Rev ""
@@ -328,28 +328,6 @@ F 3 "" H 6750 1750 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L power:GND #PWR0109
-U 1 1 5E792568
-P 1275 4350
-F 0 "#PWR0109" H 1275 4100 50  0001 C CNN
-F 1 "GND" H 1275 4225 20  0000 C CNN
-F 2 "" H 1275 4350 50  0001 C CNN
-F 3 "" H 1275 4350 50  0001 C CNN
-	1    1275 4350
-	-1   0    0    1   
-$EndComp
-$Comp
-L power:GND #PWR0104
-U 1 1 5C91E0CE
-P 9225 3250
-F 0 "#PWR0104" H 9225 3000 50  0001 C CNN
-F 1 "GND" H 9230 3077 50  0000 C CNN
-F 2 "" H 9225 3250 50  0001 C CNN
-F 3 "" H 9225 3250 50  0001 C CNN
-	1    9225 3250
-	1    0    0    -1  
-$EndComp
-$Comp
 L Device:R_Small R1
 U 1 1 5C91B042
 P 2325 1675
@@ -466,6 +444,8 @@ $Comp
 L Device:D_TVS D1
 U 1 1 5E18209E
 P 4475 3550
+AR Path="/5E18209E" Ref="D1"  Part="1" 
+AR Path="/6159038F/5E18209E" Ref="D1"  Part="1" 
 F 0 "D1" H 4475 3400 30  0000 C CNN
 F 1 "SMF9.0CA" H 4475 3450 30  0000 C CNN
 F 2 "acheron_Components:D_SOD-123_Bidirectional" H 4475 3550 50  0001 C CNN
@@ -507,12 +487,12 @@ F 6 "C160404" H 9500 3050 50  0001 C CNN "LCSC Part No"
 	1    0    0    -1  
 $EndComp
 $Comp
-L acheronSymbols:TPD4E05U06DQAR-acheronSymbols U1
+L acheronSymbols:TPD4E05U06DQAR U1
 U 1 1 5E787D68
 P 4375 1725
 AR Path="/5E787D68" Ref="U1"  Part="1" 
-AR Path="/6159038F/5E787D68" Ref="U1"  Part="1" 
-F 0 "U1" H 4375 2191 50  0000 C CNN
+AR Path="/6159038F/5E787D68" Ref="U3"  Part="1" 
+F 0 "U3" H 4375 2191 50  0000 C CNN
 F 1 "TPD4E05U06DQAR" H 4375 2100 50  0000 C CNN
 F 2 "acheron_Components:USON-10_2.5x1.0mm_P0.5mm" H 4375 2775 50  0001 C CNN
 F 3 "" H 4375 1725 50  0001 C CNN
@@ -524,9 +504,11 @@ F 7 "uSON-10" H 4375 2575 50  0001 C CNN "Package"
 	1    0    0    -1  
 $EndComp
 $Comp
-L acheronSymbols:TYPE-C-31-M12_13-acheronSymbols J1
+L acheronSymbols:TYPE-C-31-M12_13 J1
 U 1 1 5E77A5D1
 P 1575 2325
+AR Path="/5E77A5D1" Ref="J1"  Part="1" 
+AR Path="/6159038F/5E77A5D1" Ref="J1"  Part="1" 
 F 0 "J1" H 1575 3750 50  0000 C CNN
 F 1 "TYPE-C-31-M12_13" H 1575 3650 50  0000 C CNN
 F 2 "acheron_Connectors:TYPE-C-31-M-12" V 1075 2375 50  0001 C CNN
@@ -535,6 +517,28 @@ F 4 "Korean Hroparts" H 1575 2325 50  0001 C CNN "Manufacturer"
 F 5 "TYPE-C-31-M-12" H 1575 2325 50  0001 C CNN "Manufacturer Part No"
 F 6 "C165948" H 1575 2325 50  0001 C CNN "LCSC Part No"
 	1    1575 2325
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND1 #PWR0104
+U 1 1 61F66A71
+P 1275 4350
+F 0 "#PWR0104" H 1275 4100 50  0001 C CNN
+F 1 "GND1" H 1280 4177 50  0000 C CNN
+F 2 "" H 1275 4350 50  0001 C CNN
+F 3 "" H 1275 4350 50  0001 C CNN
+	1    1275 4350
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:GND1 #PWR0109
+U 1 1 61F69EB7
+P 9225 3250
+F 0 "#PWR0109" H 9225 3000 50  0001 C CNN
+F 1 "GND1" H 9230 3077 50  0000 C CNN
+F 2 "" H 9225 3250 50  0001 C CNN
+F 3 "" H 9225 3250 50  0001 C CNN
+	1    9225 3250
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
