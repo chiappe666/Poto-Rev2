@@ -123,7 +123,7 @@ U 1 1 61986A7F
 P 2450 1350
 F 0 "LED1" V 2496 1280 50  0000 R CNN
 F 1 "PWR" V 2405 1280 50  0000 R CNN
-F 2 "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" V 2450 1350 50  0001 C CNN
+F 2 "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 2450 1350 50  0001 C CNN
 F 3 "~" V 2450 1350 50  0001 C CNN
 	1    2450 1350
 	0    -1   -1   0   
@@ -173,6 +173,10 @@ F 0 "C1" H 3292 1096 50  0000 L CNN
 F 1 "0.1uF" H 3292 1005 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 3200 1050 50  0001 C CNN
 F 3 "~" H 3200 1050 50  0001 C CNN
+F 4 "C1525" H 3200 1050 50  0001 C CNN "LCSC Part No"
+F 5 "Samsung Electro-Mechanics" H 3200 1050 50  0001 C CNN "Manufacturer"
+F 6 "CL05B104KO5NNNC" H 3200 1050 50  0001 C CNN "Manufacturer Part No"
+F 7 "0402" H 3200 1050 50  0001 C CNN "Package"
 	1    3200 1050
 	1    0    0    -1  
 $EndComp
@@ -184,6 +188,10 @@ F 0 "C2" H 3692 1096 50  0000 L CNN
 F 1 "0.1uF" H 3692 1005 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 3600 1050 50  0001 C CNN
 F 3 "~" H 3600 1050 50  0001 C CNN
+F 4 "C1525" H 3600 1050 50  0001 C CNN "LCSC Part No"
+F 5 "Samsung Electro-Mechanics" H 3600 1050 50  0001 C CNN "Manufacturer"
+F 6 "CL05B104KO5NNNC" H 3600 1050 50  0001 C CNN "Manufacturer Part No"
+F 7 "0402" H 3600 1050 50  0001 C CNN "Package"
 	1    3600 1050
 	1    0    0    -1  
 $EndComp
@@ -195,6 +203,10 @@ F 0 "C3" H 4092 1096 50  0000 L CNN
 F 1 "0.1uF" H 4092 1005 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 4000 1050 50  0001 C CNN
 F 3 "~" H 4000 1050 50  0001 C CNN
+F 4 "C1525" H 4000 1050 50  0001 C CNN "LCSC Part No"
+F 5 "Samsung Electro-Mechanics" H 4000 1050 50  0001 C CNN "Manufacturer"
+F 6 "CL05B104KO5NNNC" H 4000 1050 50  0001 C CNN "Manufacturer Part No"
+F 7 "0402" H 4000 1050 50  0001 C CNN "Package"
 	1    4000 1050
 	1    0    0    -1  
 $EndComp
@@ -206,6 +218,10 @@ F 0 "C4" H 4492 1096 50  0000 L CNN
 F 1 "0.1uF" H 4492 1005 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 4400 1050 50  0001 C CNN
 F 3 "~" H 4400 1050 50  0001 C CNN
+F 4 "C1525" H 4400 1050 50  0001 C CNN "LCSC Part No"
+F 5 "Samsung Electro-Mechanics" H 4400 1050 50  0001 C CNN "Manufacturer"
+F 6 "CL05B104KO5NNNC" H 4400 1050 50  0001 C CNN "Manufacturer Part No"
+F 7 "0402" H 4400 1050 50  0001 C CNN "Package"
 	1    4400 1050
 	1    0    0    -1  
 $EndComp
@@ -267,7 +283,7 @@ U 1 1 61A285A9
 P 2100 2350
 F 0 "LED2" V 2146 2280 50  0000 R CNN
 F 1 "BuiltIn" V 2055 2280 50  0000 R CNN
-F 2 "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder" V 2100 2350 50  0001 C CNN
+F 2 "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 2100 2350 50  0001 C CNN
 F 3 "~" V 2100 2350 50  0001 C CNN
 	1    2100 2350
 	0    -1   -1   0   
@@ -618,6 +634,10 @@ F 0 "C5" V 5771 2100 50  0000 C CNN
 F 1 "10pF" V 5862 2100 50  0000 C CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 6000 2100 50  0001 C CNN
 F 3 "~" H 6000 2100 50  0001 C CNN
+F 4 "C32949" H 6000 2100 50  0001 C CNN "LCSC Part No"
+F 5 "Samsung Electro-Mechanics" H 6000 2100 50  0001 C CNN "Manufacturer"
+F 6 "CL05C100JB5NNNC" H 6000 2100 50  0001 C CNN "Manufacturer Part No"
+F 7 "0402" H 6000 2100 50  0001 C CNN "Package"
 	1    6000 2100
 	0    1    1    0   
 $EndComp
@@ -629,6 +649,10 @@ F 0 "C6" V 5771 2700 50  0000 C CNN
 F 1 "10pF" V 5862 2700 50  0000 C CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 6000 2700 50  0001 C CNN
 F 3 "~" H 6000 2700 50  0001 C CNN
+F 4 "C32949" H 6000 2700 50  0001 C CNN "LCSC Part No"
+F 5 "Samsung Electro-Mechanics" H 6000 2700 50  0001 C CNN "Manufacturer"
+F 6 "CL05C100JB5NNNC" H 6000 2700 50  0001 C CNN "Manufacturer Part No"
+F 7 "0402" H 6000 2700 50  0001 C CNN "Package"
 	1    6000 2700
 	0    1    1    0   
 $EndComp
@@ -725,6 +749,10 @@ F 0 "C7" H 6992 3846 50  0000 L CNN
 F 1 "0.1uF" H 6992 3755 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 6900 3800 50  0001 C CNN
 F 3 "~" H 6900 3800 50  0001 C CNN
+F 4 "C1525" H 6900 3800 50  0001 C CNN "LCSC Part No"
+F 5 "Samsung Electro-Mechanics" H 6900 3800 50  0001 C CNN "Manufacturer"
+F 6 "CL05B104KO5NNNC" H 6900 3800 50  0001 C CNN "Manufacturer Part No"
+F 7 "0402" H 6900 3800 50  0001 C CNN "Package"
 	1    6900 3800
 	1    0    0    -1  
 $EndComp
@@ -936,6 +964,10 @@ F 0 "C8" H 6342 3846 50  0000 L CNN
 F 1 "1uF" H 6342 3755 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 6250 3800 50  0001 C CNN
 F 3 "~" H 6250 3800 50  0001 C CNN
+F 4 "C52923" H 6250 3800 50  0001 C CNN "LCSC Part No"
+F 5 "Samsung Electro-Mechanics" H 6250 3800 50  0001 C CNN "Manufacturer"
+F 6 "CL05A105KA5NQNC" H 6250 3800 50  0001 C CNN "Manufacturer Part No"
+F 7 "0402" H 6250 3800 50  0001 C CNN "Package"
 	1    6250 3800
 	1    0    0    -1  
 $EndComp
