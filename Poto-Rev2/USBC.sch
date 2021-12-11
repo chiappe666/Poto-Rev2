@@ -336,6 +336,8 @@ F 1 "5.1k" V 2325 1675 30  0000 C CNN
 F 2 "Resistor_SMD:R_0603_1608Metric" H 2325 1675 50  0001 C CNN
 F 3 "~" H 2325 1675 50  0001 C CNN
 F 4 "R0603" V 2325 1675 50  0001 C CNN "Package"
+F 5 "C23186" H 2325 1675 50  0001 C CNN "LCSC Part No"
+F 6 "C23186" H 2325 1675 50  0001 C CNN "LCSC"
 	1    2325 1675
 	0    -1   -1   0   
 $EndComp
@@ -348,6 +350,8 @@ F 1 "5.1k" V 2325 1875 30  0000 C CNN
 F 2 "Resistor_SMD:R_0603_1608Metric" H 2325 1875 50  0001 C CNN
 F 3 "~" H 2325 1875 50  0001 C CNN
 F 4 "R0603" V 2325 1875 50  0001 C CNN "Package"
+F 5 "C23186" H 2325 1875 50  0001 C CNN "LCSC Part No"
+F 6 "C23186" H 2325 1875 50  0001 C CNN "LCSC"
 	1    2325 1875
 	0    -1   -1   0   
 $EndComp
@@ -385,6 +389,7 @@ F 4 "MELED Industrial" H 1275 4525 50  0001 C CNN "Manufacturer"
 F 5 "MLB3216-600P4A(f)" H 1275 4525 50  0001 C CNN "Manufacturer Part No"
 F 6 "C33600" H 1275 4525 50  0001 C CNN "LCSC Part No"
 F 7 "L1206" H 1275 4525 50  0001 C CNN "Package"
+F 8 "C33600" H 1275 4525 50  0001 C CNN "LCSC"
 	1    1275 4525
 	1    0    0    -1  
 $EndComp
@@ -454,6 +459,7 @@ F 4 "SOD-123F-B" H 4475 3550 50  0001 C CNN "Package"
 F 5 "Microdiode Electronics" H 4475 3550 50  0001 C CNN "Manufacturer"
 F 6 "SMF9.0CA" H 4475 3550 50  0001 C CNN "Manufacturer Part No"
 F 7 "C123799" H 4475 3550 50  0001 C CNN "LCSC Part No"
+F 8 "C123799" H 4475 3550 50  0001 C CNN "LCSC"
 	1    4475 3550
 	0    1    -1   0   
 $EndComp
@@ -469,6 +475,7 @@ F 4 "Shenzhen JDT Fuse" V 4225 3350 50  0001 C CNN "Manufacturer"
 F 5 "ASMD1206-150" V 4225 3350 50  0001 C CNN "Manufacturer Part No"
 F 6 "C135342" V 4225 3350 50  0001 C CNN "LCSC Part No"
 F 7 "F1206" V 4225 3350 50  0001 C CNN "Package"
+F 8 "C135342" H 4225 3350 50  0001 C CNN "LCSC"
 	1    4225 3350
 	0    -1   -1   0   
 $EndComp
@@ -483,6 +490,7 @@ F 3 "~" H 9500 3050 50  0001 C CNN
 F 4 "JST Sales America" H 9500 3050 50  0001 C CNN "Manufacturer"
 F 5 "SM04B-SRSS-TB(LF)(SN)" H 9500 3050 50  0001 C CNN "Manufacturer Part No"
 F 6 "C160404" H 9500 3050 50  0001 C CNN "LCSC Part No"
+F 7 "C160404" H 9500 3050 50  0001 C CNN "LCSC"
 	1    9500 3050
 	1    0    0    -1  
 $EndComp
@@ -500,6 +508,7 @@ F 4 "Texas Instruments" H 4375 2675 50  0001 C CNN "Manufacturer"
 F 5 "TPD4E05U06DQAR" H 4375 2375 50  0001 C CNN "Manufacturer Part No"
 F 6 "C138714" H 4375 2475 50  0001 C CNN "LCSC Part No"
 F 7 "uSON-10" H 4375 2575 50  0001 C CNN "Package"
+F 8 "C138714" H 4375 1725 50  0001 C CNN "LCSC"
 	1    4375 1725
 	1    0    0    -1  
 $EndComp
@@ -516,6 +525,7 @@ F 3 "" H 1775 2375 50  0001 C CNN
 F 4 "Korean Hroparts" H 1575 2325 50  0001 C CNN "Manufacturer"
 F 5 "TYPE-C-31-M-12" H 1575 2325 50  0001 C CNN "Manufacturer Part No"
 F 6 "C165948" H 1575 2325 50  0001 C CNN "LCSC Part No"
+F 7 "C165948" H 1575 2325 50  0001 C CNN "LCSC"
 	1    1575 2325
 	1    0    0    -1  
 $EndComp

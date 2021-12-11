@@ -8,6 +8,7 @@ Comment,Designator,Footprint,LCSC
 "Unified-Daughterboard-Logo","G1","Unified-Daughterboard-Logo:Unified-Daughterboard-Logo.pretty",""
 "Unified-Daughterboard-Name","G2","Unified-Daughterboard-Logo:Unified-Daughterboard-Name.pretty",""
 "TYPE-C-31-M12_13","J1","acheron_Connectors:TYPE-C-31-M-12","C165948"
+"Conn_01x01","J11,J13,J14,J16,J17,J18,J19,J20,J21,J22,J23,J24,J25,J26,J27,J28,J29,J30,J31,J32,J33","Connector_Wire:SolderWirePad_1x01_SMD_1x2mm",""
 "Conn_01x01","J12","Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical",""
 "OLED","J15","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical",""
 "SM04B-SRSS-TB(LF)(SN)","J2","random-keyboard-parts:JST-SR-4","C160404"
