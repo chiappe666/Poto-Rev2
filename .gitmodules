@@ -14,3 +14,6 @@
 [submodule "Poto-Rev2/libraries/teensy_library"]
 	path = Poto-Rev2/libraries/teensy_library
 	url = https://github.com/XenGi/teensy_library
+[submodule "Poto-Rev2/libraries/teensy.pretty"]
+	path = Poto-Rev2/libraries/teensy.pretty
+	url = https://github.com/XenGi/teensy.pretty
